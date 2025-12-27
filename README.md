@@ -5,6 +5,9 @@
   </a>
 </p>
 <hr style="border:1px solid #30363d"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</p>
 
 ### 🌐 Connect with Me
 
