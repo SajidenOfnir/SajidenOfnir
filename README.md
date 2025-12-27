@@ -107,7 +107,14 @@ I enjoy performance-critical programming, distributed systems, and building prod
 
 
 <div align="center">
-  <img src="./github_metrics.svg" alt="SajidenOfnir's GitHub Metrics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sajiden Ofnir&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    width="390"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajiden Ofnir&layout=compact&theme=tokyonight&hide_border=true"
+    width="390"
+  />
 </div>
 
 <hr style="border:1px solid #30363d"/>
