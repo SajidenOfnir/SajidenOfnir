@@ -105,72 +105,148 @@ I enjoy performance-critical programming, distributed systems, and building prod
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SajidenOfnir&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=SajidenOfnir&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
   />
+</td>
+<td align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidenOfnir&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidenOfnir&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
   />
-</p>
+</td>
+</tr>
+</table>
+
 <hr style="border:1px solid #30363d"/>
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
 
-<a href="https://github.com/SajidenOfnir" target="_blank">
-  <img src="https://img.shields.io/badge/Unity%20NPC%20Dialogue%20Engine-Game%20AI-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-</a>  
-> **AI-powered dynamic NPC conversations**  
-> `Unity` · `Flask` · `MongoDB` · `OpenAI API`
-<br/><br/>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Fahim2019331003/incentive.git" target="_blank">
-  <img src="https://img.shields.io/badge/SUST%20Incentive%20Automation-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</a>  
-> **Research incentive management system**  
-> `Next.js` · `MongoDB` 
-<br/><br/>
+### 🎮 Unity NPC Dialogue Engine  
+<a href="https://github.com/SajidenOfnir">
+  <img src="https://img.shields.io/badge/Game%20AI-Unity-black?style=for-the-badge&logo=unity"/>
+</a>
 
-<a href="https://github.com/Sajidenslaver-2019331113/Automated-Transport-Enquiry-System.git" target="_blank">
-  <img src="https://img.shields.io/badge/Automated%20Transport%20Enquiry-System-4CAF50?style=for-the-badge&logo=javascript&logoColor=white"/>
-</a>  
-> **Real-time transport schedule search**  
-> `JavaScript` · `PHP` · `MySQL` 
-<br/><br/>
+**AI-powered dynamic NPC conversations**
 
-<a href="https://github.com/Sajidenslaver-2019331113/Inflation-and-Expense-Management-System-.git" target="_blank">
-  <img src="https://img.shields.io/badge/Inflation%20%26%20Expense%20Manager-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</a>  
-> **Inflation-aware budgeting system**  
-> `Real-time economic data`   
-<br/><br/>
+**Tech:**  
+`Unity` · `Flask` · `MongoDB` · `OpenAI API`
 
-<a href="https://github.com/SajidenOfnir/clipnomaniac.git" target="_blank">
-  <img src="https://img.shields.io/badge/ClipNoManiac-Movie%20Discovery-1DB954?style=for-the-badge&logo=react&logoColor=white"/>
-</a>  
-> **Movie discovery app**  
-> `React` · `TypeScript` · `TMDB API`
-<br/><br/>
+</td>
 
-<a href="https://github.com/SajidenOfnir/cryptomaniac.git" target="_blank">
-  <img src="https://img.shields.io/badge/Cryptomaniac-Crypto%20Tracker-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-</a>  
-> **Cryptocurrency tracker**  
-> `React` · `CoinGecko API`  
-<br/><br/>
+<td width="50%" valign="top">
 
-<a href="https://github.com/SajidenOfnir/syncron-app.git" target="_blank">
-  <img src="https://img.shields.io/badge/Syncron-App%20Music%20Streaming-8E2DE2?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>  
-> **Futuristic music streaming app**  
-> `React` · `Node.js` · `Express.js` · `Spotify API` · `Glassmorphism UI` 
+### 🏫 SUST Incentive Automation  
+<a href="https://github.com/Fahim2019331003/incentive.git">
+  <img src="https://img.shields.io/badge/Next.js-System-black?style=for-the-badge&logo=nextdotjs"/>
+</a>
 
-</p>
+**Research incentive management system**
+
+**Tech:**  
+`Next.js` · `MongoDB`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚍 Transport Enquiry System  
+<a href="https://github.com/Sajidenslaver-2019331113/Automated-Transport-Enquiry-System.git">
+  <img src="https://img.shields.io/badge/Transport-System-4CAF50?style=for-the-badge&logo=javascript"/>
+</a>
+
+**Real-time transport schedule search**
+
+**Tech:**  
+`JavaScript` · `PHP` · `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 Inflation & Expense Manager  
+<a href="https://github.com/Sajidenslaver-2019331113/Inflation-and-Expense-Management-System-.git">
+  <img src="https://img.shields.io/badge/Java-Finance-ED8B00?style=for-the-badge&logo=openjdk"/>
+</a>
+
+**Inflation-aware budgeting system**
+
+**Tech:**  
+`Java` · `Economic Data`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎬 ClipNoManiac  
+<a href="https://github.com/SajidenOfnir/clipnomaniac.git">
+  <img src="https://img.shields.io/badge/Movie%20Discovery-React-1DB954?style=for-the-badge&logo=react"/>
+</a>
+
+**Modern movie discovery app**
+
+**Tech:**  
+`React` · `TypeScript` · `TMDB API`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Cryptomaniac  
+<a href="https://github.com/SajidenOfnir/cryptomaniac.git">
+  <img src="https://img.shields.io/badge/Crypto-Tracker-F7931A?style=for-the-badge&logo=bitcoin"/>
+</a>
+
+**Live cryptocurrency price tracker**
+
+**Tech:**  
+`React` · `CoinGecko API`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎵 Syncron App  
+<a href="https://github.com/SajidenOfnir/syncron-app.git">
+  <img src="https://img.shields.io/badge/Music-Streaming-8E2DE2?style=for-the-badge&logo=spotify"/>
+</a>
+
+**Futuristic music streaming app**
+
+**Tech:**  
+`React` · `Node.js` · `Express` · `Spotify API`
+
+</td>
+
+<td width="50%" valign="top">
+
+<!-- intentionally left blank for symmetry -->
+
+</td>
+
+</tr>
+</table>
+
 <hr style="border:1px solid #30363d"/>
+
 
 ## 🏆 Achievements & Certifications
 
