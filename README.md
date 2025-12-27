@@ -106,10 +106,8 @@ I enjoy performance-critical programming, distributed systems, and building prod
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="github-readme-stats-fast.vercel.app" width="400" />
-  <img src="github-readme-stats-fast.vercel.app" width="400" />
+  <img src="./github_metrics.svg" alt="SajidenOfnir's GitHub Metrics" />
 </div>
-
 <hr style="border:1px solid #30363d"/>
 
 ## 🚀 Featured Projects
