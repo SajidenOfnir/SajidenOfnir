@@ -103,21 +103,6 @@ I enjoy performance-critical programming, distributed systems, and building prod
 </p>
 <hr style="border:1px solid #30363d"/>
 
-## 📊 GitHub Stats
-
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SajidenOfnir&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-    width="390"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidenOfnir&layout=compact&theme=tokyonight&hide_border=true"
-    width="390"
-  />
-</div>
-
-<hr style="border:1px solid #30363d"/>
 
 ## 🚀 Featured Projects
 
@@ -187,7 +172,7 @@ I enjoy performance-critical programming, distributed systems, and building prod
 <tr>
 
 <td width="50%" valign="top">
-
+  
 ### 🎬 ClipNoManiac  
 <a href="https://github.com/SajidenOfnir/clipnomaniac.git">
   <img src="https://img.shields.io/badge/Movie%20Discovery-React-1DB954?style=for-the-badge&logo=react"/>
@@ -242,6 +227,22 @@ I enjoy performance-critical programming, distributed systems, and building prod
 
 <hr style="border:1px solid #30363d"/>
 
+
+## 📊 GitHub Stats
+
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SajidenOfnir&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    width="390"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidenOfnir&layout=compact&theme=tokyonight&hide_border=true"
+    width="390"
+  />
+</div>
+
+<hr style="border:1px solid #30363d"/>
 
 ## 🏆 Achievements & Certifications
 
