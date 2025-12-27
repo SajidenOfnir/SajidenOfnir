@@ -133,23 +133,16 @@ I enjoy performance-critical programming, distributed systems, and building prod
 </p>
 
 
-## 📊 GitHub Stats
-
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SajidenOfnir&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-    width="390"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidenOfnir&layout=compact&theme=tokyonight&hide_border=true"
-    width="390"
-  />
-</div>
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:8E2DE2&height=3&section=header" width="100%"/>
+  <img src="https://raw.githubusercontent.com/SajidenOfnir/SajidenOfnir/output/github-snake-neon.svg" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:8E2DE2&height=3" width="100%"/>
+</p>
+
 
 ## 🏆 Achievements & Certifications
 
