@@ -106,7 +106,7 @@ I enjoy performance-critical programming, distributed systems, and building prod
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./github_metrics.svg" alt="SajidenOfnir's GitHub Metrics" />
+  ![SajidenOfnir's GitHub Metrics](./github_metrics.svg)
 </div>
 <hr style="border:1px solid #30363d"/>
 
