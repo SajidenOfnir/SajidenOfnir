@@ -106,11 +106,11 @@ I enjoy performance-critical programming, distributed systems, and building prod
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SajidenOfnir&show_icons=true&theme=tokyonight&hide_border=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SajidenOfnir&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
     width="390"
   />
-  <img 
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidenOfnir&layout=compact&theme=tokyonight&hide_border=true"
     width="390"
   />
