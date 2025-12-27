@@ -8,6 +8,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8e2de2,100:4a00e0&height=3&section=header" width="100%"/>
+</p>
 
 ### 🌐 Connect with Me
 
