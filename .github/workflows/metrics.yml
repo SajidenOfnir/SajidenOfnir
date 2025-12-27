@@ -1,0 +1,21 @@
+name: GitHub Metrics Generation
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lowlighter/metrics@latest
+        with:
+          # You will need to create a Personal Access Token (PAT) 
+          # in your settings and add it as a repository secret named 'METRICS_TOKEN'
+          token: ${{ secrets.METRICS_TOKEN }} 
+          user: SajidenOfnir
+          template: classic
+          config.timezone: Asia/Dhaka
+          output_image: github_metrics.svg
