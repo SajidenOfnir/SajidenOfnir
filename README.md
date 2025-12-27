@@ -106,10 +106,10 @@ I enjoy performance-critical programming, distributed systems, and building prod
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
-  <img src="img.shields.io" />
+  <img src="github-readme-stats-eight-theta.vercel.app" width="400" />
+  <img src="github-readme-stats-eight-theta.vercel.app" width="400" />
 </div>
+
 
 <hr style="border:1px solid #30363d"/>
 
