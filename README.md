@@ -136,7 +136,7 @@ I enjoy performance-critical programming, distributed systems, and building prod
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SajidenOfnir/SajidenOfnir/output/snake-neon.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/SajidenOfnir/SajidenOfnir/output/snake-dark.svg" alt="Contribution Snake Dark"/>
 </p>
 
 <p align="center">
