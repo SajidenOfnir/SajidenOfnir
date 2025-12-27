@@ -106,8 +106,9 @@ I enjoy performance-critical programming, distributed systems, and building prod
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/0-stats.svg" width="48%" />
-  <img src="profile-summary-card-output/tokyonight/1-languages.svg" width="48%" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
 </div>
 
 <hr style="border:1px solid #30363d"/>
