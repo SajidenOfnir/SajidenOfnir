@@ -106,14 +106,8 @@ I enjoy performance-critical programming, distributed systems, and building prod
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SajidenOfnir&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-    width="390"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidenOfnir&layout=compact&theme=tokyonight&hide_border=true"
-    width="390"
-  />
+  <img src="profile-summary-card-output/tokyonight/0-stats.svg" width="48%" />
+  <img src="profile-summary-card-output/tokyonight/1-languages.svg" width="48%" />
 </div>
 
 <hr style="border:1px solid #30363d"/>
