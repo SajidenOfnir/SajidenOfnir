@@ -1,11 +1,10 @@
 <!-- Animated Typing Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sheikh+Sajid+Hossain;C%23+.NET+%26+Python+Developer;Game+Developer+%7C+Backend+Engineer;Unity+%7C+AI+%7C+Cloud+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sheikh+Sajid+Hossain;C%23+.NET+%26+Python+Developer;Full-Stack+Developer+%7C+Game+Developer;Unity+%7C+AI+%7C+Cloud+Systems" alt="Typing SVG" />
   </a>
 </p>
 <hr style="border:1px solid #30363d"/>
----
 
 ### 🌐 Connect with Me
 
@@ -30,7 +29,6 @@
   </a>
 </p>
 <hr style="border:1px solid #30363d"/>
----
 
 ## 👨‍💻 About Me
 
@@ -39,7 +37,6 @@ Currently working at **MetaMix3D LLC (PixelGames)** where I build scalable backe
 
 I enjoy performance-critical programming, distributed systems, and building production-grade software. I also like to do projects in Full-stack.
 <hr style="border:1px solid #30363d"/>
----
 
 ## 🧐 More About Me
 
@@ -51,7 +48,6 @@ I enjoy performance-critical programming, distributed systems, and building prod
 - 🌱 Learning **Cloud Architecture & Advanced Backend**
 - 💬 Ask me about **C#, Python, Unity, React, Next.js, Backend Systems**
 <hr style="border:1px solid #30363d"/>
----
 
 ## 🧠 Competitive Programming & Coding Profiles
 
@@ -88,7 +84,6 @@ I enjoy performance-critical programming, distributed systems, and building prod
 </p>
 
 <hr style="border:1px solid #30363d"/>
----
 
 ## 🛠️ Languages & Tools
 
@@ -107,7 +102,6 @@ I enjoy performance-critical programming, distributed systems, and building prod
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 <hr style="border:1px solid #30363d"/>
----
 
 ## 📊 GitHub Stats
 
@@ -122,7 +116,6 @@ I enjoy performance-critical programming, distributed systems, and building prod
   />
 </p>
 <hr style="border:1px solid #30363d"/>
----
 
 ## 🚀 Featured Projects
 
@@ -178,7 +171,6 @@ I enjoy performance-critical programming, distributed systems, and building prod
 
 </p>
 <hr style="border:1px solid #30363d"/>
----
 
 ## 🏆 Achievements & Certifications
 
@@ -187,7 +179,6 @@ I enjoy performance-critical programming, distributed systems, and building prod
 - 🌐 AWS Academy Web Application Builder
 - 🧠 Google Hash Code — **1,693,199 points**
 <hr style="border:1px solid #30363d"/>
----
 
 ⭐ **If you like my work, consider starring my repositories**
 <br/><br/><br/><br/><br/>
