@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sheikh+Sajid+Hossain;C%23+.NET+%26+Python+Developer;Game+Developer+%7C+Backend+Engineer;Unity+%7C+AI+%7C+Cloud+Systems" alt="Typing SVG" />
   </a>
 </p>
-
+<hr style="border:1px solid #30363d"/>
 ---
 
 ### 🌐 Connect with Me
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Instagram-sajid__hossain._-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
+<hr style="border:1px solid #30363d"/>
 ---
 
 ## 👨‍💻 About Me
@@ -38,7 +38,7 @@ I am a **C#.NET & Python Developer** specializing in **Game Development, Backend
 Currently working at **MetaMix3D LLC (PixelGames)** where I build scalable backend services, Unity game systems, and AI-powered gameplay features.
 
 I enjoy performance-critical programming, distributed systems, and building production-grade software. I also like to do projects in Full-stack.
-
+<hr style="border:1px solid #30363d"/>
 ---
 
 ## 🧐 More About Me
@@ -50,7 +50,44 @@ I enjoy performance-critical programming, distributed systems, and building prod
 - 🎓 **B.Sc. in CSE**, SUST (CGPA 3.20)
 - 🌱 Learning **Cloud Architecture & Advanced Backend**
 - 💬 Ask me about **C#, Python, Unity, React, Next.js, Backend Systems**
+<hr style="border:1px solid #30363d"/>
+---
 
+## 🧠 Competitive Programming & Coding Profiles
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=1000%2B+Problems+Solved;Data+Structures+%26+Algorithms;Competitive+Programming+Profiles" />
+</p>
+
+<p align="center">
+
+<a href="https://codeforces.com/profile/sajidenslaver" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-sajidenslaver-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/sajidenslaver" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-sajidenslaver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/sajidenslaver/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-sajidenslaver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/sajidenslaver" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-sajidenslaver-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://atcoder.jp/users/sajidenslaver" target="_blank">
+  <img src="https://img.shields.io/badge/AtCoder-sajidenslaver-222222?style=for-the-badge"/>
+</a>
+
+<a href="https://uhunt.onlinejudge.org/id/1137667" target="_blank">
+  <img src="https://img.shields.io/badge/UVA%20OJ-1137667-6A1B9A?style=for-the-badge"/>
+</a>
+
+</p>
+
+<hr style="border:1px solid #30363d"/>
 ---
 
 ## 🛠️ Languages & Tools
@@ -69,16 +106,22 @@ I enjoy performance-critical programming, distributed systems, and building prod
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
-
+<hr style="border:1px solid #30363d"/>
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SajidenOfnir&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidenOfnir&layout=compact&theme=tokyonight" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SajidenOfnir&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajidenOfnir&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180"
+  />
 </p>
-
+<hr style="border:1px solid #30363d"/>
 ---
 
 ## 🚀 Featured Projects
@@ -88,46 +131,53 @@ I enjoy performance-critical programming, distributed systems, and building prod
 <a href="https://github.com/SajidenOfnir" target="_blank">
   <img src="https://img.shields.io/badge/Unity%20NPC%20Dialogue%20Engine-Game%20AI-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </a>  
-AI-powered dynamic NPC conversations using **Unity, Flask, MongoDB & OpenAI API**  
+> **AI-powered dynamic NPC conversations**  
+> `Unity` · `Flask` · `MongoDB` · `OpenAI API`
 <br/><br/>
 
 <a href="https://github.com/Fahim2019331003/incentive.git" target="_blank">
   <img src="https://img.shields.io/badge/SUST%20Incentive%20Automation-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </a>  
-Research incentive management system built with **Next.js & MongoDB**  
+> **Research incentive management system**  
+> `Next.js` · `MongoDB` 
 <br/><br/>
 
 <a href="https://github.com/Sajidenslaver-2019331113/Automated-Transport-Enquiry-System.git" target="_blank">
   <img src="https://img.shields.io/badge/Automated%20Transport%20Enquiry-System-4CAF50?style=for-the-badge&logo=javascript&logoColor=white"/>
 </a>  
-Real-time transport schedule search using **JavaScript, PHP & MySQL**  
+> **Real-time transport schedule search**  
+> `JavaScript` · `PHP` · `MySQL` 
 <br/><br/>
 
 <a href="https://github.com/Sajidenslaver-2019331113/Inflation-and-Expense-Management-System-.git" target="_blank">
   <img src="https://img.shields.io/badge/Inflation%20%26%20Expense%20Manager-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </a>  
-Inflation-aware budgeting system using **real-time economic data**  
+> **Inflation-aware budgeting system**  
+> `Real-time economic data`   
 <br/><br/>
 
 <a href="https://github.com/SajidenOfnir/clipnomaniac.git" target="_blank">
   <img src="https://img.shields.io/badge/ClipNoManiac-Movie%20Discovery-1DB954?style=for-the-badge&logo=react&logoColor=white"/>
 </a>  
-Movie discovery app built with **React, TypeScript & TMDB API**  
+> **Movie discovery app**  
+> `React` · `TypeScript` · `TMDB API`
 <br/><br/>
 
 <a href="https://github.com/SajidenOfnir/cryptomaniac.git" target="_blank">
   <img src="https://img.shields.io/badge/Cryptomaniac-Crypto%20Tracker-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 </a>  
-Cryptocurrency tracker powered by **CoinGecko API**  
+> **Cryptocurrency tracker**  
+> `React` · `CoinGecko API`  
 <br/><br/>
 
 <a href="https://github.com/SajidenOfnir/syncron-app.git" target="_blank">
   <img src="https://img.shields.io/badge/Syncron-App%20Music%20Streaming-8E2DE2?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>  
-Futuristic music streaming app using **Spotify API & Glassmorphism UI**
+> **Futuristic music streaming app**  
+> `React` · `Node.js` · `Express.js` · `Spotify API` · `Glassmorphism UI` 
 
 </p>
-
+<hr style="border:1px solid #30363d"/>
 ---
 
 ## 🏆 Achievements & Certifications
@@ -136,7 +186,9 @@ Futuristic music streaming app using **Spotify API & Glassmorphism UI**
 - ☁️ AWS Academy Cloud Foundations
 - 🌐 AWS Academy Web Application Builder
 - 🧠 Google Hash Code — **1,693,199 points**
-
+<hr style="border:1px solid #30363d"/>
 ---
 
 ⭐ **If you like my work, consider starring my repositories**
+<br/><br/><br/><br/><br/>
+
