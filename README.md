@@ -42,13 +42,15 @@
 
 ## 👨‍💻 About Me
 
-I am a **C#.NET & Python Developer** specializing in **Game Development, Backend Engineering, and AI-integrated systems**.  
-Currently working at **MetaMix3D LLC (PixelGames)** where I build scalable backend services, Unity game systems, and AI-powered gameplay features.
+I am a **Full-Stack Developer** specializing in **MERN, C#.NET, Python, and modern web technologies**.
+Previously, I worked as a **Junior Full-Stack Developer at FileSure Bangladesh**, where I developed scalable web applications using **React, Next.js, REST APIs, MongoDB, PHP, and MySQL**, contributing to production-ready features and performance improvements.
 
-I enjoy performance-critical programming, distributed systems, and building production-grade software. I also like to do projects in Full-stack.
+I enjoy building end-to-end software solutions, solving complex programming challenges, and continuously learning new technologies. With **1,000+ problems solved** across **Codeforces, LeetCode, and AtCoder**, along with **AWS Certified Cloud Practitioner** and **Docker Certified Associate** certifications, I have a strong interest in **Cloud Computing, AIOps, MLOps, and scalable software engineering**.
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:8E2DE2&height=3&section=header" width="100%"/>
 </p>
+
 
 
 ## 🧐 More About Me
