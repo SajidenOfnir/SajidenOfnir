@@ -55,7 +55,7 @@ I enjoy building end-to-end software solutions, solving complex programming chal
 
 ## 🧐 More About Me
 
-- 🔭 Software Developer at **MetaMix3D LLC**
+- 🔭 Former Junior Full-Stack Developer at **FileSure**
 - 🎮 Unity Game Systems & AI-driven NPCs
 - 🤖 Unity ↔ Flask ↔ MongoDB ↔ OpenAI integrations
 - 🧠 Solved **1000+ algorithmic problems**
